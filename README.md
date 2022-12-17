@@ -17,9 +17,11 @@ Finally, you'll learn how to make webpages that respond to different screen
  sizes by building a photo gallery with Flexbox, and a magazine 
  article layout with CSS Grid.
 
-## Languages 
+## Contents
 
-* HTML and CSS
+
+* [Resources - click here to see the resources I use for my Learning practice](resources.md)
+
 
 
 ## 🔗 Links
